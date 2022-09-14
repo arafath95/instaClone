@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "James",
+    "image": "https://i.ibb.co/3hYc8j6/man-img-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Aali ",
+    "image": "https://i.ibb.co/BnQyDW4/man-img-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Elijah",
+    "image": "https://i.ibb.co/3hYc8j6/man-img-1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "JOHN",
+
+    "image": "https://i.ibb.co/JC2s61b/man-img-3.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Aarav",
+
+    "image": "https://i.ibb.co/jfz3WRV/man-img-4.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Abram",
+
+    "image": "https://i.ibb.co/9Y6v6wj/man-img-5.jpg"
+  },
+  {
+    "id": 7,
+    "name": "aliane dav",
+
+    "image": "https://i.ibb.co/mcZZFPf/man-img-6.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Abram ",
+
+    "image": "https://i.ibb.co/mcZZFPf/man-img-6.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Abdiel",
+
+    "image": "https://i.ibb.co/mcZZFPf/man-img-6.jpg"
+  }
+]
